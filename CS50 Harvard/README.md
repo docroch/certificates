@@ -20,6 +20,15 @@ Now you need to choose the course you want. From this [link](https://cs50.harvar
 
 When you click on any of the courses, you will enter its dedicated page. In the left panel, you can see the exercises. When you click on any of them, at the bottom of the page, when you scroll, you will reach a link called Problem Set or Project. By clicking on these links, you will enter the page to submit the exercises for that course.
 
+On this page you will only see the description of that course and how to submit the exercises. To register for each course, you must add the name of the course to cs50.me, And after entering the link, click on "Click here to join the course".
+
+For example:
+- [cs50.me/cs50x](https://cs50.me/cs50x) for Computer Science
+- [cs50.me/cs50p](https://cs50.me/cs50p) for Python
+- [cs50.me/cs50ai](https://cs50.me/cs50ai) for Artificial Intelligence
+- [cs50.me/cs50w](https://cs50.me/cs50w) for Web (HTML, CSS, etc)
+- [cs50.me/cybersecurity](https://cs50.me/cybersecurity) for Cyber Security
+
 ### 3. Submit problem sets
 
 Now you have two options:
@@ -34,3 +43,7 @@ To submit problem sets and projects, you must go to cs50.dev and complete each e
 ### 4. Earn certificate
 
 Finally, after all the exercises have been submitted and the exercises are 100% complete on the cs50.me website, you will be shown a green message on this page that you can get your certificate by clicking on "Click here for your CS50 Certificate".
+
+---
+
+If you have any questions about obtaining these certificates, you can message me on [Telegram](https://t.me/docroch).
